@@ -1,7 +1,6 @@
 # province-select
 省市区联动
 
-
 引入
 import pro from './province-select.js'
 Vue.use(pro)
